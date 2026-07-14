@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Balia portfolio preview">
+  <rect width="1200" height="630" fill="#05070d"/>
+  <rect x="66" y="66" width="1068" height="498" rx="24" fill="#07111f" stroke="#00f6ff" stroke-opacity="0.35" stroke-width="2"/>
+  <circle cx="912" cy="208" r="180" fill="#00f6ff" fill-opacity="0.12"/>
+  <circle cx="320" cy="420" r="220" fill="#b537f2" fill-opacity="0.14"/>
+  <text x="96" y="240" fill="#ffffff" font-family="Orbitron, Arial, sans-serif" font-size="58" letter-spacing="4">Balia</text>
+  <text x="96" y="310" fill="#00f6ff" font-family="JetBrains Mono, monospace" font-size="28" letter-spacing="4">Software Engineering Portfolio</text>
+  <text x="96" y="386" fill="#d9ecff" font-family="JetBrains Mono, monospace" font-size="24">AI • Full-Stack • Interactive Systems</text>
+  <rect x="96" y="430" width="240" height="54" rx="10" fill="#00f6ff" fill-opacity="0.12" stroke="#00f6ff" stroke-opacity="0.4"/>
+  <text x="128" y="466" fill="#00f6ff" font-family="JetBrains Mono, monospace" font-size="22">Open Workspace</text>
+</svg>
